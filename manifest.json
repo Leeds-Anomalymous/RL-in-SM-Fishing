@@ -1,0 +1,10 @@
+{
+  "Name": "RL-fishing",
+  "Author": "Chara",
+  "Version": "1.0.0",
+  "Description": "Ha",
+  "UniqueID": "Chara.RL-fishing",
+  "EntryDll": "RL-fishing.dll",
+  "MinimumApiVersion": "1.0.0",
+  "UpdateKeys": []
+}
